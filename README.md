@@ -36,8 +36,10 @@ The project deliberately focuses on the most technically relevant gameplay core 
 ```text
 larphub-software-engineering-design/
 ├── README.md
-├── docs/
-│   └── LARPHub_Project_Documentation.pdf
+├── LICENSE
+├── agile/
+│   ├── product-backlog.md
+│   └── sprint-1-backlog.md
 ├── diagrams/
 │   ├── use-case-player-interaction.png
 │   ├── use-case-organizer-flow.png
@@ -47,12 +49,11 @@ larphub-software-engineering-design/
 │   ├── sequence-pu003.png
 │   ├── interface-realization.png
 │   └── product-backlog-sprints.png
+├── docs/
+│   └── LARPHub_Project_Documentation.pdf
 ├── requirements/
 │   ├── use-cases.md
 │   └── rsl-bis-scenarios.md
-├── agile/
-│   ├── product-backlog.md
-│   └── sprint-1-backlog.md
 └── src/
     └── generated-java/
         ├── IRozstrzyganie.java
